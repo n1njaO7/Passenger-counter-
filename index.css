@@ -1,0 +1,51 @@
+body {
+    background-image: url("backpht.jpg");
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    height: 100vh;
+}
+.containers
+{
+    background-color: rgb(203, 183, 183);
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+     font-size: 50px;
+      margin-top: 60px;
+      margin-bottom: 10px;
+}
+h2{
+    font-size: 90px;
+    margin-top: 0 ;
+    margin-bottom: 20px;
+}
+button {
+   
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    width: 400px;
+    margin-bottom: 5px;
+    border-radius: 15px;
+}
+#incr {
+    background-color: darkred;
+   
+}
+#sav{
+    background-color: darkgreen;
+  
+}
+#save-el
+{
+    font-size: 25px;
+    font-weight: bolder;
+}
